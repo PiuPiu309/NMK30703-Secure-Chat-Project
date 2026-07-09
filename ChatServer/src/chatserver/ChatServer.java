@@ -10,7 +10,7 @@ import java.util.*;
 
 public class ChatServer {
 
-    // List to keep track of all connected clients
+    // List to keep track of all c^onnected clients
     private static final Set<PrintWriter> clientWriters = new HashSet<>();
 
     public static void main(String[] args) {
